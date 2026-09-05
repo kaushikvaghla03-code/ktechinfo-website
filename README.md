@@ -18,3 +18,6 @@ Replace or verify:
 - Any service/pricing claims
 
 The WhatsApp buttons currently use +91 74359 99492.
+
+
+Logo: `assets/k-tech-logo.jpg` uses the supplied K Tech branding artwork.
